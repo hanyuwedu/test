@@ -5,7 +5,3 @@ Update 2.1
 Update 2.2
 Update 2.3
 
-Update 2.4
-Update 2.5
-
-Update 2.6
