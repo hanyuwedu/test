@@ -1,3 +1,9 @@
 This is a test!
 
+<<<<<<< HEAD
 mod 1
+=======
+updated 1
+updated 2
+
+>>>>>>> abbrev
